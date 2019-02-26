@@ -3,6 +3,7 @@ package configuration;
 import java.io.File;
 
 public class Configuration {
+	//private static String handHistory = "C:/PokerPredictor/HandHistory/";
 	private static String handHistory = "C:/PokerPredictor/HandHistory/";
 	private static String pokerPredictorFolderPath = "C:/PokerPredictor/";
 	private static String clusteringFolderPath = "C:/PokerPredictor/Clustering/";
