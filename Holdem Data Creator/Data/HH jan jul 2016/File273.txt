@@ -1,0 +1,1543 @@
+PokerStars Hand #155381670981:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:49:17 CET [2016/06/30 8:49:17 ET]
+Table 'Chort III' 9-max Seat #7 is the button
+Seat 2: Yourstepmom ($64.86 in chips) 
+Seat 3: Dantist1122 ($50 in chips) 
+Seat 4: kotkas1000 ($51.35 in chips) 
+Seat 5: Hit Pit ($30.87 in chips) 
+Seat 6: Franky77200 ($27.57 in chips) 
+Seat 7: matiko09 ($52.83 in chips) 
+Seat 8: Kukuryzka ($50.45 in chips) 
+Kukuryzka: posts small blind $0.25
+Yourstepmom: posts big blind $0.50
+Yourstepmom: posts the ante $0.10
+Dantist1122: posts the ante $0.10
+kotkas1000: posts the ante $0.10
+Hit Pit: posts the ante $0.10
+Franky77200: posts the ante $0.10
+matiko09: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [4s 2c]
+Dantist1122: folds 
+kotkas1000: folds 
+Hit Pit: raises $1 to $1.50
+Franky77200: folds 
+matiko09: folds 
+Kukuryzka: calls $1.25
+Yourstepmom: folds 
+*** FLOP *** [Jc 5s 6c]
+Kukuryzka: checks 
+Hit Pit: checks 
+*** TURN *** [Jc 5s 6c] [6h]
+Kukuryzka: bets $1.99
+Hit Pit: calls $1.99
+*** RIVER *** [Jc 5s 6c 6h] [8c]
+Kukuryzka: checks 
+Hit Pit: bets $2.50
+Kukuryzka: calls $2.50
+*** SHOW DOWN ***
+Hit Pit: shows [As Tc] (a pair of Sixes)
+Kukuryzka: shows [Th Jh] (two pair, Jacks and Sixes)
+Kukuryzka collected $12.52 from pot
+*** SUMMARY ***
+Total pot $13.18 | Rake $0.66 
+Board [Jc 5s 6c 6h 8c]
+Seat 2: Yourstepmom (big blind) folded before Flop
+Seat 3: Dantist1122 folded before Flop (didn't bet)
+Seat 4: kotkas1000 folded before Flop (didn't bet)
+Seat 5: Hit Pit showed [As Tc] and lost with a pair of Sixes
+Seat 6: Franky77200 folded before Flop (didn't bet)
+Seat 7: matiko09 (button) folded before Flop (didn't bet)
+Seat 8: Kukuryzka (small blind) showed [Th Jh] and won ($12.52) with two pair, Jacks and Sixes
+
+
+
+
+
+PokerStars Hand #155381676387:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:49:28 CET [2016/06/30 8:49:28 ET]
+Table 'Arcturus' 9-max Seat #2 is the button
+Seat 1: kourk250 ($142.80 in chips) 
+Seat 2: Rafaello18 ($51.59 in chips) 
+Seat 3: matiko09 ($65.19 in chips) 
+Seat 5: stockbridge8 ($44.75 in chips) 
+Seat 6: sanr23 ($52.78 in chips) 
+Seat 7: bratbugor ($50 in chips) 
+Seat 8: TheMinion ($65.26 in chips) 
+Seat 9: joker180785 ($50.75 in chips) 
+matiko09: posts small blind $0.25
+stockbridge8: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [Jc Kd]
+sanr23: folds 
+bratbugor: folds 
+TheMinion: raises $0.75 to $1.25
+joker180785: folds 
+kourk250 has timed out while being disconnected
+kourk250: folds 
+kourk250 is disconnected 
+Rafaello18: folds 
+matiko09: folds 
+stockbridge8: folds 
+Uncalled bet ($0.75) returned to TheMinion
+TheMinion collected $1.25 from pot
+TheMinion: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 1: kourk250 folded before Flop (didn't bet)
+Seat 2: Rafaello18 (button) folded before Flop (didn't bet)
+Seat 3: matiko09 (small blind) folded before Flop
+Seat 5: stockbridge8 (big blind) folded before Flop
+Seat 6: sanr23 folded before Flop (didn't bet)
+Seat 7: bratbugor folded before Flop (didn't bet)
+Seat 8: TheMinion collected ($1.25)
+Seat 9: joker180785 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381680053:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:49:35 CET [2016/06/30 8:49:35 ET]
+Table 'California II' 9-max Seat #7 is the button
+Seat 1: Rafaello18 ($110 in chips) 
+Seat 2: ruslik_by ($142.31 in chips) 
+Seat 3: KovIFish89 ($108.92 in chips) 
+Seat 4: f1reworks ($113.35 in chips) 
+Seat 5: Rohitbarve ($104.27 in chips) 
+Seat 6: matiko09 ($118.48 in chips) 
+Seat 7: DomiVY ($86.88 in chips) 
+Seat 8: chenconhaste ($100.50 in chips) 
+Seat 9: Ty Nick 420 ($100 in chips) 
+chenconhaste: posts small blind $0.50
+Ty Nick 420: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [5s 4h]
+Rafaello18: folds 
+ruslik_by: folds 
+KovIFish89: folds 
+f1reworks: folds 
+Rohitbarve: folds 
+matiko09: folds 
+DomiVY: folds 
+chenconhaste: raises $2 to $3
+Ty Nick 420: calls $2
+*** FLOP *** [9d Ks 3c]
+chenconhaste: bets $2
+Ty Nick 420: folds 
+Uncalled bet ($2) returned to chenconhaste
+chenconhaste collected $5.70 from pot
+*** SUMMARY ***
+Total pot $6 | Rake $0.30 
+Board [9d Ks 3c]
+Seat 1: Rafaello18 folded before Flop (didn't bet)
+Seat 2: ruslik_by folded before Flop (didn't bet)
+Seat 3: KovIFish89 folded before Flop (didn't bet)
+Seat 4: f1reworks folded before Flop (didn't bet)
+Seat 5: Rohitbarve folded before Flop (didn't bet)
+Seat 6: matiko09 folded before Flop (didn't bet)
+Seat 7: DomiVY (button) folded before Flop (didn't bet)
+Seat 8: chenconhaste (small blind) collected ($5.70)
+Seat 9: Ty Nick 420 (big blind) folded on the Flop
+
+
+
+
+
+PokerStars Hand #155381680900:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:49:37 CET [2016/06/30 8:49:37 ET]
+Table 'Asmodeus' 9-max Seat #6 is the button
+Seat 2: DomiVY ($40 in chips) 
+Seat 3: matiko09 ($102.15 in chips) 
+Seat 4: Ty Nick 420 ($109.06 in chips) 
+Seat 5: sanr23 ($102.25 in chips) 
+Seat 6: koutani7 ($98.58 in chips) 
+Seat 7: aaronzzr ($162.32 in chips) 
+Seat 8: Rafaello18 ($175.37 in chips) 
+Seat 9: mbk88 ($138.06 in chips) 
+aaronzzr: posts small blind $0.50
+Rafaello18: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [2d 8h]
+mbk88: folds 
+DomiVY: folds 
+matiko09: folds 
+Ty Nick 420: folds 
+sanr23: folds 
+koutani7: folds 
+aaronzzr: folds 
+Uncalled bet ($0.50) returned to Rafaello18
+Rafaello18 collected $1 from pot
+Rafaello18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 2: DomiVY folded before Flop (didn't bet)
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 4: Ty Nick 420 folded before Flop (didn't bet)
+Seat 5: sanr23 folded before Flop (didn't bet)
+Seat 6: koutani7 (button) folded before Flop (didn't bet)
+Seat 7: aaronzzr (small blind) folded before Flop
+Seat 8: Rafaello18 (big blind) collected ($1)
+Seat 9: mbk88 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381681258:  Hold'em No Limit (€0.25/€0.50 EUR) - 2016/06/30 14:49:38 CET [2016/06/30 8:49:38 ET]
+Table 'Vibeke II' 9-max Seat #3 is the button
+Seat 1: kotkas1000 (€50 in chips) 
+Seat 2: drosser321 (€50 in chips) 
+Seat 3: RvPersie (€50 in chips) 
+Seat 4: acelacat111 (€35.74 in chips) 
+Seat 6: Kukuryzka (€54.24 in chips) 
+Seat 7: matiko09 (€61.81 in chips) 
+Seat 8: Math9881 (€41.66 in chips) 
+Seat 9: funXmun (€50.62 in chips) 
+acelacat111: posts small blind €0.25
+Kukuryzka: posts big blind €0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [Js Kd]
+matiko09: folds 
+Math9881: folds 
+funXmun: folds 
+kotkas1000: folds 
+drosser321: folds 
+TIoxepStars joins the table at seat #5 
+TIoxepStars leaves the table
+RvPersie: folds 
+acelacat111: raises €1 to €1.50
+fanmtZ joins the table at seat #5 
+Kukuryzka: folds 
+Uncalled bet (€1) returned to acelacat111
+acelacat111 collected €1 from pot
+acelacat111: doesn't show hand 
+*** SUMMARY ***
+Total pot €1 | Rake €0 
+Seat 1: kotkas1000 folded before Flop (didn't bet)
+Seat 2: drosser321 folded before Flop (didn't bet)
+Seat 3: RvPersie (button) folded before Flop (didn't bet)
+Seat 4: acelacat111 (small blind) collected (€1)
+Seat 6: Kukuryzka (big blind) folded before Flop
+Seat 7: matiko09 folded before Flop (didn't bet)
+Seat 8: Math9881 folded before Flop (didn't bet)
+Seat 9: funXmun folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381689093:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:49:54 CET [2016/06/30 8:49:54 ET]
+Table 'Thalia II' 9-max Seat #4 is the button
+Seat 2: DeathcorePkr ($66.71 in chips) 
+Seat 4: Kukuryzka ($49.65 in chips) 
+Seat 5: geowin ($43.91 in chips) 
+Seat 6: chenconhaste ($53.59 in chips) 
+Seat 7: fudzi ($62.17 in chips) 
+Seat 8: Jo_Medici ($57.36 in chips) 
+Seat 9: matiko09 ($50 in chips) 
+geowin: posts small blind $0.25
+chenconhaste: posts big blind $0.50
+DeathcorePkr: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+geowin: posts the ante $0.10
+chenconhaste: posts the ante $0.10
+fudzi: posts the ante $0.10
+Jo_Medici: posts the ante $0.10
+matiko09: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [Qs 9d]
+fudzi: folds 
+Jo_Medici: folds 
+matiko09: folds 
+DeathcorePkr: folds 
+Kukuryzka: raises $0.50 to $1
+geowin: raises $3 to $4
+chenconhaste: folds 
+Kukuryzka: folds 
+Uncalled bet ($3) returned to geowin
+geowin collected $3.20 from pot
+*** SUMMARY ***
+Total pot $3.20 | Rake $0 
+Seat 2: DeathcorePkr folded before Flop (didn't bet)
+Seat 4: Kukuryzka (button) folded before Flop
+Seat 5: geowin (small blind) collected ($3.20)
+Seat 6: chenconhaste (big blind) folded before Flop
+Seat 7: fudzi folded before Flop (didn't bet)
+Seat 8: Jo_Medici folded before Flop (didn't bet)
+Seat 9: matiko09 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381695715:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:08 CET [2016/06/30 8:50:08 ET]
+Table 'Tietjen' 9-max Seat #9 is the button
+Seat 1: swizzly58 ($80 in chips) 
+Seat 2: chenconhaste ($100 in chips) 
+Seat 3: bearlar ($97 in chips) 
+Seat 4: matiko09 ($100 in chips) 
+Seat 5: Ty Nick 420 ($100 in chips) 
+Seat 6: CR0ZAMATOZ ($100 in chips) 
+Seat 7: Rafaello18 ($100 in chips) 
+Seat 9: ETHANS ($121 in chips) 
+swizzly58: posts small blind $0.50
+chenconhaste: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [Ah Th]
+bearlar: folds 
+rukus0000 leaves the table
+matiko09: raises $2 to $3
+Ty Nick 420: folds 
+CR0ZAMATOZ: folds 
+Rafaello18: folds 
+ETHANS: folds 
+swizzly58: calls $2.50
+chenconhaste: folds 
+*** FLOP *** [5c 4h 3c]
+swizzly58: bets $6.65
+ruslik_by joins the table at seat #8 
+matiko09: folds 
+Uncalled bet ($6.65) returned to swizzly58
+swizzly58 collected $6.65 from pot
+swizzly58: doesn't show hand 
+*** SUMMARY ***
+Total pot $7 | Rake $0.35 
+Board [5c 4h 3c]
+Seat 1: swizzly58 (small blind) collected ($6.65)
+Seat 2: chenconhaste (big blind) folded before Flop
+Seat 3: bearlar folded before Flop (didn't bet)
+Seat 4: matiko09 folded on the Flop
+Seat 5: Ty Nick 420 folded before Flop (didn't bet)
+Seat 6: CR0ZAMATOZ folded before Flop (didn't bet)
+Seat 7: Rafaello18 folded before Flop (didn't bet)
+Seat 9: ETHANS (button) folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381700876:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:50:18 CET [2016/06/30 8:50:18 ET]
+Table 'Chort III' 9-max Seat #8 is the button
+Seat 2: Yourstepmom ($64.26 in chips) 
+Seat 3: Dantist1122 ($50 in chips) 
+Seat 4: kotkas1000 ($51.25 in chips) 
+Seat 5: Hit Pit ($24.78 in chips) 
+Seat 6: Franky77200 ($27.47 in chips) 
+Seat 7: matiko09 ($52.73 in chips) 
+Seat 8: Kukuryzka ($56.88 in chips) 
+Yourstepmom: posts small blind $0.25
+Dantist1122: posts big blind $0.50
+Yourstepmom: posts the ante $0.10
+Dantist1122: posts the ante $0.10
+kotkas1000: posts the ante $0.10
+Hit Pit: posts the ante $0.10
+Franky77200: posts the ante $0.10
+matiko09: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [Js 8d]
+kotkas1000: folds 
+Hit Pit: raises $1.50 to $2
+Franky77200: calls $2
+matiko09: folds 
+Kukuryzka: folds 
+Yourstepmom: raises $7.20 to $9.20
+Dantist1122: folds 
+Hit Pit: calls $7.20
+Franky77200: folds 
+*** FLOP *** [5c Ah 6h]
+Yourstepmom: bets $10.50
+Hit Pit: calls $10.50
+*** TURN *** [5c Ah 6h] [7c]
+Yourstepmom: bets $20.50
+Hit Pit: calls $4.98 and is all-in
+Uncalled bet ($15.52) returned to Yourstepmom
+*** RIVER *** [5c Ah 6h 7c] [9h]
+*** SHOW DOWN ***
+Yourstepmom: shows [Ks Kd] (a pair of Kings)
+Hit Pit: shows [Qh Ac] (a pair of Aces)
+Hit Pit collected $50.56 from pot
+*** SUMMARY ***
+Total pot $52.56 | Rake $2 
+Board [5c Ah 6h 7c 9h]
+Seat 2: Yourstepmom (small blind) showed [Ks Kd] and lost with a pair of Kings
+Seat 3: Dantist1122 (big blind) folded before Flop
+Seat 4: kotkas1000 folded before Flop (didn't bet)
+Seat 5: Hit Pit showed [Qh Ac] and won ($50.56) with a pair of Aces
+Seat 6: Franky77200 folded before Flop
+Seat 7: matiko09 folded before Flop (didn't bet)
+Seat 8: Kukuryzka (button) folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381701383:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:20 CET [2016/06/30 8:50:20 ET]
+Table 'Asmodeus' 9-max Seat #7 is the button
+Seat 2: DomiVY ($40 in chips) 
+Seat 3: matiko09 ($102.15 in chips) 
+Seat 4: Ty Nick 420 ($109.06 in chips) 
+Seat 5: sanr23 ($102.25 in chips) 
+Seat 6: koutani7 ($98.58 in chips) 
+Seat 7: aaronzzr ($161.82 in chips) 
+Seat 8: Rafaello18 ($175.87 in chips) 
+Seat 9: mbk88 ($138.06 in chips) 
+Rafaello18: posts small blind $0.50
+mbk88: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [9c As]
+DomiVY: folds 
+matiko09: folds 
+Ty Nick 420: folds 
+sanr23: folds 
+koutani7: folds 
+aaronzzr: raises $1 to $2
+Rafaello18: calls $1.50
+mbk88: folds 
+*** FLOP *** [Qh Tc Th]
+Rafaello18: checks 
+aaronzzr: checks 
+*** TURN *** [Qh Tc Th] [Js]
+Rafaello18: bets $2.50
+aaronzzr: calls $2.50
+*** RIVER *** [Qh Tc Th Js] [Kc]
+Rafaello18: checks 
+aaronzzr: bets $9
+Rafaello18: folds 
+Uncalled bet ($9) returned to aaronzzr
+aaronzzr collected $9.50 from pot
+aaronzzr: doesn't show hand 
+*** SUMMARY ***
+Total pot $10 | Rake $0.50 
+Board [Qh Tc Th Js Kc]
+Seat 2: DomiVY folded before Flop (didn't bet)
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 4: Ty Nick 420 folded before Flop (didn't bet)
+Seat 5: sanr23 folded before Flop (didn't bet)
+Seat 6: koutani7 folded before Flop (didn't bet)
+Seat 7: aaronzzr (button) collected ($9.50)
+Seat 8: Rafaello18 (small blind) folded on the River
+Seat 9: mbk88 (big blind) folded before Flop
+
+
+
+
+
+PokerStars Hand #155381702193:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:21 CET [2016/06/30 8:50:21 ET]
+Table 'Tatjana' 9-max Seat #2 is the button
+Seat 1: tipner ($100 in chips) 
+Seat 2: Kukuryzka ($103.88 in chips) 
+Seat 3: Rafaello18 ($104.88 in chips) 
+Seat 4: mopatron25 ($35 in chips) 
+Seat 5: matiko09 ($100 in chips) 
+Seat 6: mbk88 ($203.04 in chips) 
+Seat 8: alhill86 ($230.34 in chips) 
+Seat 9: Ty Nick 420 ($134.50 in chips) 
+Rafaello18: posts small blind $0.50
+mopatron25: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [6s 9d]
+matiko09: folds 
+mbk88: folds 
+alhill86: folds 
+Ty Nick 420: folds 
+tipner: folds 
+Kukuryzka: folds 
+Rafaello18: raises $1.50 to $2.50
+mopatron25: raises $4.50 to $7
+Rafaello18: raises $97.88 to $104.88 and is all-in
+mopatron25: calls $28 and is all-in
+Uncalled bet ($69.88) returned to Rafaello18
+*** FLOP *** [8s 4h 6c]
+*** TURN *** [8s 4h 6c] [4d]
+*** RIVER *** [8s 4h 6c 4d] [4s]
+*** SHOW DOWN ***
+Rafaello18: shows [8d 8c] (a full house, Eights full of Fours)
+mopatron25: shows [Tc Qh] (three of a kind, Fours)
+Rafaello18 collected $67.50 from pot
+*** SUMMARY ***
+Total pot $70 | Rake $2.50 
+Board [8s 4h 6c 4d 4s]
+Seat 1: tipner folded before Flop (didn't bet)
+Seat 2: Kukuryzka (button) folded before Flop (didn't bet)
+Seat 3: Rafaello18 (small blind) showed [8d 8c] and won ($67.50) with a full house, Eights full of Fours
+Seat 4: mopatron25 (big blind) showed [Tc Qh] and lost with three of a kind, Fours
+Seat 5: matiko09 folded before Flop (didn't bet)
+Seat 6: mbk88 folded before Flop (didn't bet)
+Seat 8: alhill86 folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381705663:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:28 CET [2016/06/30 8:50:28 ET]
+Table 'California II' 9-max Seat #8 is the button
+Seat 1: Rafaello18 ($110 in chips) 
+Seat 2: ruslik_by ($142.31 in chips) 
+Seat 3: KovIFish89 ($108.92 in chips) 
+Seat 4: f1reworks ($113.35 in chips) 
+Seat 5: Rohitbarve ($104.27 in chips) 
+Seat 6: matiko09 ($118.48 in chips) 
+Seat 7: DomiVY ($86.88 in chips) 
+Seat 8: chenconhaste ($103.20 in chips) 
+Seat 9: Ty Nick 420 ($100 in chips) 
+Ty Nick 420: posts small blind $0.50
+Rafaello18: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [Td 2c]
+ruslik_by: folds 
+KovIFish89: folds 
+f1reworks: folds 
+Rohitbarve: folds 
+matiko09: folds 
+DomiVY: folds 
+chenconhaste: folds 
+Ty Nick 420: folds 
+Uncalled bet ($0.50) returned to Rafaello18
+Rafaello18 collected $1 from pot
+Rafaello18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: Rafaello18 (big blind) collected ($1)
+Seat 2: ruslik_by folded before Flop (didn't bet)
+Seat 3: KovIFish89 folded before Flop (didn't bet)
+Seat 4: f1reworks folded before Flop (didn't bet)
+Seat 5: Rohitbarve folded before Flop (didn't bet)
+Seat 6: matiko09 folded before Flop (didn't bet)
+Seat 7: DomiVY folded before Flop (didn't bet)
+Seat 8: chenconhaste (button) folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 (small blind) folded before Flop
+
+
+
+
+
+PokerStars Hand #155381708761:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:50:34 CET [2016/06/30 8:50:34 ET]
+Table 'Joella II' 9-max Seat #6 is the button
+Seat 3: santa88188 ($22.01 in chips) 
+Seat 4: matiko09 ($50 in chips) 
+Seat 5: TheMinion ($50 in chips) 
+Seat 6: OMGHankAzari ($21.27 in chips) 
+Seat 7: RvPersie ($50 in chips) 
+Seat 8: Askim32 ($101 in chips) 
+Seat 9: Dantist1122 ($50.75 in chips) 
+RvPersie: posts small blind $0.25
+Askim32: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [3h 4d]
+Dantist1122: folds 
+santa88188: folds 
+matiko09: folds 
+TheMinion: folds 
+OMGHankAzari: raises $1 to $1.50
+RvPersie: folds 
+Askim32: folds 
+Uncalled bet ($1) returned to OMGHankAzari
+OMGHankAzari collected $1.25 from pot
+OMGHankAzari: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: santa88188 folded before Flop (didn't bet)
+Seat 4: matiko09 folded before Flop (didn't bet)
+Seat 5: TheMinion folded before Flop (didn't bet)
+Seat 6: OMGHankAzari (button) collected ($1.25)
+Seat 7: RvPersie (small blind) folded before Flop
+Seat 8: Askim32 (big blind) folded before Flop
+Seat 9: Dantist1122 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381715868:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:49 CET [2016/06/30 8:50:49 ET]
+Table 'Tietjen' 9-max Seat #1 is the button
+Seat 1: swizzly58 ($83.65 in chips) 
+Seat 2: chenconhaste ($100 in chips) 
+Seat 3: bearlar ($97 in chips) 
+Seat 4: matiko09 ($100 in chips) 
+Seat 5: Ty Nick 420 ($100 in chips) 
+Seat 6: CR0ZAMATOZ ($100 in chips) 
+Seat 7: Rafaello18 ($100 in chips) 
+Seat 9: ETHANS ($121 in chips) 
+chenconhaste: posts small blind $0.50
+bearlar: posts big blind $1
+ruslik_by: sits out 
+*** HOLE CARDS ***
+Dealt to matiko09 [9h 6s]
+ETHANS said, "wow won from ahead !"
+matiko09: folds 
+Ty Nick 420: folds 
+CR0ZAMATOZ: folds 
+Rafaello18: folds 
+ETHANS: raises $1 to $2
+swizzly58: folds 
+chenconhaste: folds 
+bearlar: calls $1
+*** FLOP *** [Ah 2s 3s]
+bearlar: bets $3
+ETHANS: folds 
+Uncalled bet ($3) returned to bearlar
+bearlar collected $4.28 from pot
+bearlar: doesn't show hand 
+*** SUMMARY ***
+Total pot $4.50 | Rake $0.22 
+Board [Ah 2s 3s]
+Seat 1: swizzly58 (button) folded before Flop (didn't bet)
+Seat 2: chenconhaste (small blind) folded before Flop
+Seat 3: bearlar (big blind) collected ($4.28)
+Seat 4: matiko09 folded before Flop (didn't bet)
+Seat 5: Ty Nick 420 folded before Flop (didn't bet)
+Seat 6: CR0ZAMATOZ folded before Flop (didn't bet)
+Seat 7: Rafaello18 folded before Flop (didn't bet)
+Seat 9: ETHANS folded on the Flop
+
+
+
+
+
+PokerStars Hand #155381716234:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:50 CET [2016/06/30 8:50:50 ET]
+Table 'Donnera' 9-max Seat #6 is the button
+Seat 1: chenconhaste ($118.84 in chips) 
+Seat 3: matiko09 ($136.32 in chips) 
+Seat 4: Kukuryzka ($104.28 in chips) 
+Seat 5: tipner ($192.87 in chips) 
+Seat 6: nickreason17 ($110.75 in chips) 
+Seat 7: Rafaello18 ($102.30 in chips) 
+Seat 8: ruslik_by ($201.44 in chips) 
+Seat 9: Starw!nd ($117.75 in chips) 
+Rafaello18: posts small blind $0.50
+ruslik_by: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [Js Td]
+Starw!nd: folds 
+chenconhaste: folds 
+robbiescrim9 is disconnected 
+matiko09: folds 
+Kukuryzka: folds 
+tipner: raises $1 to $2
+nickreason17: folds 
+Rafaello18: folds 
+ruslik_by: folds 
+Uncalled bet ($1) returned to tipner
+tipner collected $2.50 from pot
+tipner: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: chenconhaste folded before Flop (didn't bet)
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 4: Kukuryzka folded before Flop (didn't bet)
+Seat 5: tipner collected ($2.50)
+Seat 6: nickreason17 (button) folded before Flop (didn't bet)
+Seat 7: Rafaello18 (small blind) folded before Flop
+Seat 8: ruslik_by (big blind) folded before Flop
+Seat 9: Starw!nd folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381717006:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:50:51 CET [2016/06/30 8:50:51 ET]
+Table 'Thalia II' 9-max Seat #5 is the button
+Seat 2: DeathcorePkr ($66.61 in chips) 
+Seat 4: Kukuryzka ($50 in chips) 
+Seat 5: geowin ($46.01 in chips) 
+Seat 6: chenconhaste ($52.99 in chips) 
+Seat 7: fudzi ($62.07 in chips) 
+Seat 8: Jo_Medici ($57.26 in chips) 
+Seat 9: matiko09 ($50 in chips) 
+chenconhaste: posts small blind $0.25
+fudzi: posts big blind $0.50
+DeathcorePkr: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+geowin: posts the ante $0.10
+chenconhaste: posts the ante $0.10
+fudzi: posts the ante $0.10
+Jo_Medici: posts the ante $0.10
+matiko09: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [3c Kc]
+Jo_Medici: raises $0.75 to $1.25
+matiko09: folds 
+DeathcorePkr: folds 
+Kukuryzka: folds 
+geowin: raises $3.95 to $5.20
+chenconhaste: folds 
+matteo080613 was removed from the table for failing to post
+Kféine5 joins the table at seat #1 
+fudzi: folds 
+Jo_Medici: folds 
+Uncalled bet ($3.95) returned to geowin
+geowin collected $3.95 from pot
+*** SUMMARY ***
+Total pot $3.95 | Rake $0 
+Seat 2: DeathcorePkr folded before Flop (didn't bet)
+Seat 4: Kukuryzka folded before Flop (didn't bet)
+Seat 5: geowin (button) collected ($3.95)
+Seat 6: chenconhaste (small blind) folded before Flop
+Seat 7: fudzi (big blind) folded before Flop
+Seat 8: Jo_Medici folded before Flop
+Seat 9: matiko09 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381718680:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:50:55 CET [2016/06/30 8:50:55 ET]
+Table 'California II' 9-max Seat #9 is the button
+Seat 1: Rafaello18 ($110.50 in chips) 
+Seat 2: ruslik_by ($142.31 in chips) 
+Seat 3: KovIFish89 ($108.92 in chips) 
+Seat 4: f1reworks ($113.35 in chips) 
+Seat 5: Rohitbarve ($104.27 in chips) 
+Seat 6: matiko09 ($118.48 in chips) 
+Seat 7: DomiVY ($86.88 in chips) 
+Seat 8: chenconhaste ($103.20 in chips) 
+Seat 9: Ty Nick 420 ($100 in chips) 
+Rafaello18: posts small blind $0.50
+ruslik_by: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [5d Ad]
+KovIFish89: folds 
+f1reworks: folds 
+Rohitbarve: folds 
+matiko09: folds 
+DomiVY: raises $2 to $3
+chenconhaste: folds 
+Ty Nick 420: folds 
+Rafaello18: folds 
+ruslik_by: folds 
+Uncalled bet ($2) returned to DomiVY
+DomiVY collected $2.50 from pot
+DomiVY: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rafaello18 (small blind) folded before Flop
+Seat 2: ruslik_by (big blind) folded before Flop
+Seat 3: KovIFish89 folded before Flop (didn't bet)
+Seat 4: f1reworks folded before Flop (didn't bet)
+Seat 5: Rohitbarve folded before Flop (didn't bet)
+Seat 6: matiko09 folded before Flop (didn't bet)
+Seat 7: DomiVY collected ($2.50)
+Seat 8: chenconhaste folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 (button) folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381721515:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:51:01 CET [2016/06/30 8:51:01 ET]
+Table 'Joella II' 9-max Seat #7 is the button
+Seat 3: santa88188 ($22.01 in chips) 
+Seat 4: matiko09 ($50 in chips) 
+Seat 5: TheMinion ($50 in chips) 
+Seat 6: OMGHankAzari ($22.02 in chips) 
+Seat 7: RvPersie ($50 in chips) 
+Seat 8: Askim32 ($100.50 in chips) 
+Askim32: posts small blind $0.25
+Dantist1122: is sitting out 
+santa88188: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [3h 7h]
+Dantist1122 leaves the table
+matiko09: folds 
+TheMinion: raises $0.75 to $1.25
+OMGHankAzari: folds 
+RvPersie: folds 
+Askim32: folds 
+santa88188: folds 
+Uncalled bet ($0.75) returned to TheMinion
+TheMinion collected $1.25 from pot
+TheMinion: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 3: santa88188 (big blind) folded before Flop
+Seat 4: matiko09 folded before Flop (didn't bet)
+Seat 5: TheMinion collected ($1.25)
+Seat 6: OMGHankAzari folded before Flop (didn't bet)
+Seat 7: RvPersie (button) folded before Flop (didn't bet)
+Seat 8: Askim32 (small blind) folded before Flop
+
+
+
+
+
+PokerStars Hand #155381726689:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:51:11 CET [2016/06/30 8:51:11 ET]
+Table 'Chort III' 9-max Seat #2 is the button
+Seat 2: Yourstepmom ($39.48 in chips) 
+Seat 3: Dantist1122 ($50 in chips) 
+Seat 4: kotkas1000 ($51.15 in chips) 
+Seat 5: Hit Pit ($50.56 in chips) 
+Seat 6: Franky77200 ($25.37 in chips) 
+Seat 7: matiko09 ($52.63 in chips) 
+Seat 8: Kukuryzka ($56.78 in chips) 
+Dantist1122: posts small blind $0.25
+kotkas1000: posts big blind $0.50
+r4mz3s: sits out 
+Yourstepmom: posts the ante $0.10
+Dantist1122: posts the ante $0.10
+kotkas1000: posts the ante $0.10
+Hit Pit: posts the ante $0.10
+Franky77200: posts the ante $0.10
+matiko09: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [9h 4c]
+Hit Pit: folds 
+Franky77200: calls $0.50
+matiko09: folds 
+Kukuryzka: folds 
+Yourstepmom: folds 
+Dantist1122: folds 
+kotkas1000: checks 
+*** FLOP *** [2s 8h Jc]
+kotkas1000: checks 
+Franky77200: bets $1
+kotkas1000: folds 
+Uncalled bet ($1) returned to Franky77200
+Franky77200 collected $1.85 from pot
+Franky77200: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.95 | Rake $0.10 
+Board [2s 8h Jc]
+Seat 2: Yourstepmom (button) folded before Flop (didn't bet)
+Seat 3: Dantist1122 (small blind) folded before Flop
+Seat 4: kotkas1000 (big blind) folded on the Flop
+Seat 5: Hit Pit folded before Flop (didn't bet)
+Seat 6: Franky77200 collected ($1.85)
+Seat 7: matiko09 folded before Flop (didn't bet)
+Seat 8: Kukuryzka folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381727136:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:51:12 CET [2016/06/30 8:51:12 ET]
+Table 'Arcturus' 9-max Seat #3 is the button
+Seat 2: Rafaello18 ($51.59 in chips) 
+Seat 3: matiko09 ($64.94 in chips) 
+Seat 5: stockbridge8 ($44.25 in chips) 
+Seat 7: bratbugor ($50 in chips) 
+Seat 8: TheMinion ($66.01 in chips) 
+Seat 9: joker180785 ($50.75 in chips) 
+stockbridge8: posts small blind $0.25
+sanr23: is sitting out 
+bratbugor: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [5c 5h]
+TheMinion: folds 
+sanr23 leaves the table
+joker180785: raises $1 to $1.50
+r4mz3s joins the table at seat #6 
+r4mz3s leaves the table
+kotkas1000 joins the table at seat #6 
+kotkas1000 leaves the table
+Rafaello18: folds 
+matiko09: calls $1.50
+stockbridge8: folds 
+bratbugor: folds 
+*** FLOP *** [7s 8c 7h]
+katiedao1307 joins the table at seat #6 
+joker180785: checks 
+matiko09: checks 
+*** TURN *** [7s 8c 7h] [Qc]
+joker180785: checks 
+matiko09: checks 
+*** RIVER *** [7s 8c 7h Qc] [Qh]
+joker180785: checks 
+matiko09: checks 
+*** SHOW DOWN ***
+joker180785: shows [3h 3d] (two pair, Queens and Sevens)
+matiko09: shows [5c 5h] (two pair, Queens and Sevens)
+joker180785 collected $1.78 from pot
+matiko09 collected $1.78 from pot
+*** SUMMARY ***
+Total pot $3.75 | Rake $0.19 
+Board [7s 8c 7h Qc Qh]
+Seat 2: Rafaello18 folded before Flop (didn't bet)
+Seat 3: matiko09 (button) showed [5c 5h] and won ($1.78) with two pair, Queens and Sevens
+Seat 5: stockbridge8 (small blind) folded before Flop
+Seat 7: bratbugor (big blind) folded before Flop
+Seat 8: TheMinion folded before Flop (didn't bet)
+Seat 9: joker180785 showed [3h 3d] and won ($1.78) with two pair, Queens and Sevens
+
+
+
+
+
+PokerStars Hand #155381739839:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:51:38 CET [2016/06/30 8:51:38 ET]
+Table 'Tatjana' 9-max Seat #3 is the button
+Seat 1: tipner ($100 in chips) 
+Seat 2: Kukuryzka ($103.88 in chips) 
+Seat 3: Rafaello18 ($137.38 in chips) 
+Seat 5: matiko09 ($100 in chips) 
+Seat 6: mbk88 ($203.04 in chips) 
+Seat 8: alhill86 ($230.34 in chips) 
+Seat 9: Ty Nick 420 ($134.50 in chips) 
+matiko09: posts small blind $0.50
+mbk88: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [7c Qh]
+alhill86: folds 
+Ty Nick 420: folds 
+tipner: folds 
+Kukuryzka: folds 
+Rafaello18: folds 
+matiko09: folds 
+Uncalled bet ($0.50) returned to mbk88
+mbk88 collected $1 from pot
+mbk88: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 1: tipner folded before Flop (didn't bet)
+Seat 2: Kukuryzka folded before Flop (didn't bet)
+Seat 3: Rafaello18 (button) folded before Flop (didn't bet)
+Seat 5: matiko09 (small blind) folded before Flop
+Seat 6: mbk88 (big blind) collected ($1)
+Seat 8: alhill86 folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381739853:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:51:38 CET [2016/06/30 8:51:38 ET]
+Table 'California II' 9-max Seat #1 is the button
+Seat 1: Rafaello18 ($110 in chips) 
+Seat 2: ruslik_by ($141.31 in chips) 
+Seat 3: KovIFish89 ($108.92 in chips) 
+Seat 4: f1reworks ($113.35 in chips) 
+Seat 5: Rohitbarve ($104.27 in chips) 
+Seat 6: matiko09 ($118.48 in chips) 
+Seat 7: DomiVY ($88.38 in chips) 
+Seat 8: chenconhaste ($103.20 in chips) 
+Seat 9: Ty Nick 420 ($100 in chips) 
+ruslik_by: posts small blind $0.50
+KovIFish89: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [Th 3h]
+f1reworks: folds 
+Rohitbarve: folds 
+matiko09: folds 
+DomiVY: folds 
+chenconhaste: folds 
+Ty Nick 420: folds 
+Rafaello18: folds 
+ruslik_by: raises $2 to $3
+KovIFish89: calls $2
+*** FLOP *** [Ad 7c 9h]
+ruslik_by: bets $2.85
+KovIFish89: calls $2.85
+*** TURN *** [Ad 7c 9h] [6h]
+ruslik_by: checks 
+KovIFish89: checks 
+*** RIVER *** [Ad 7c 9h 6h] [Ts]
+ruslik_by: checks 
+KovIFish89: bets $7
+ruslik_by: folds 
+Uncalled bet ($7) returned to KovIFish89
+KovIFish89 collected $11.12 from pot
+KovIFish89: doesn't show hand 
+*** SUMMARY ***
+Total pot $11.70 | Rake $0.58 
+Board [Ad 7c 9h 6h Ts]
+Seat 1: Rafaello18 (button) folded before Flop (didn't bet)
+Seat 2: ruslik_by (small blind) folded on the River
+Seat 3: KovIFish89 (big blind) collected ($11.12)
+Seat 4: f1reworks folded before Flop (didn't bet)
+Seat 5: Rohitbarve folded before Flop (didn't bet)
+Seat 6: matiko09 folded before Flop (didn't bet)
+Seat 7: DomiVY folded before Flop (didn't bet)
+Seat 8: chenconhaste folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381742858:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:51:44 CET [2016/06/30 8:51:44 ET]
+Table 'Donnera' 9-max Seat #7 is the button
+Seat 1: chenconhaste ($118.84 in chips) 
+Seat 3: matiko09 ($136.32 in chips) 
+Seat 4: Kukuryzka ($104.28 in chips) 
+Seat 5: tipner ($194.37 in chips) 
+Seat 6: nickreason17 ($110.75 in chips) 
+Seat 7: Rafaello18 ($101.80 in chips) 
+Seat 8: ruslik_by ($200.44 in chips) 
+ruslik_by: posts small blind $0.50
+Starw!nd: is sitting out 
+chenconhaste: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [9c 2c]
+matiko09: folds 
+Kukuryzka: folds 
+tipner: folds 
+nickreason17: folds 
+Rafaello18: raises $1.50 to $2.50
+ruslik_by: calls $2
+Starw!nd leaves the table
+HappyFog joins the table at seat #9 
+chenconhaste: folds 
+*** FLOP *** [Td Ts 5h]
+ruslik_by: checks 
+Rafaello18: bets $4
+ruslik_by: calls $4
+*** TURN *** [Td Ts 5h] [9s]
+ruslik_by: checks 
+Rafaello18: checks 
+*** RIVER *** [Td Ts 5h 9s] [2h]
+ruslik_by: checks 
+Rafaello18: checks 
+*** SHOW DOWN ***
+ruslik_by: shows [Ah 4h] (a pair of Tens)
+Rafaello18: shows [Ac Kd] (a pair of Tens - Ace+King kicker)
+Rafaello18 collected $13.30 from pot
+*** SUMMARY ***
+Total pot $14 | Rake $0.70 
+Board [Td Ts 5h 9s 2h]
+Seat 1: chenconhaste (big blind) folded before Flop
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 4: Kukuryzka folded before Flop (didn't bet)
+Seat 5: tipner folded before Flop (didn't bet)
+Seat 6: nickreason17 folded before Flop (didn't bet)
+Seat 7: Rafaello18 (button) showed [Ac Kd] and won ($13.30) with a pair of Tens
+Seat 8: ruslik_by (small blind) showed [Ah 4h] and lost with a pair of Tens
+
+
+
+
+
+PokerStars Hand #155381743548:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:51:46 CET [2016/06/30 8:51:46 ET]
+Table 'Chort III' 9-max Seat #3 is the button
+Seat 2: Yourstepmom ($39.38 in chips) 
+Seat 3: Dantist1122 ($50 in chips) 
+Seat 4: kotkas1000 ($50.55 in chips) 
+Seat 5: Hit Pit ($50.46 in chips) 
+Seat 6: Franky77200 ($26.62 in chips) 
+Seat 7: matiko09 ($52.53 in chips) 
+Seat 8: Kukuryzka ($56.68 in chips) 
+kotkas1000: posts small blind $0.25
+Hit Pit: posts big blind $0.50
+r4mz3s: sits out 
+Yourstepmom: posts the ante $0.10
+Dantist1122: posts the ante $0.10
+kotkas1000: posts the ante $0.10
+Hit Pit: posts the ante $0.10
+Franky77200: posts the ante $0.10
+matiko09: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [4c 7c]
+Franky77200: calls $0.50
+matiko09: folds 
+Kukuryzka: folds 
+Yourstepmom: folds 
+Dantist1122: folds 
+kotkas1000: calls $0.25
+Hit Pit: checks 
+*** FLOP *** [2h 2s 9s]
+kotkas1000: bets $1.39
+Hit Pit: folds 
+Franky77200: folds 
+Uncalled bet ($1.39) returned to kotkas1000
+kotkas1000 collected $2.09 from pot
+kotkas1000: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.20 | Rake $0.11 
+Board [2h 2s 9s]
+Seat 2: Yourstepmom folded before Flop (didn't bet)
+Seat 3: Dantist1122 (button) folded before Flop (didn't bet)
+Seat 4: kotkas1000 (small blind) collected ($2.09)
+Seat 5: Hit Pit (big blind) folded on the Flop
+Seat 6: Franky77200 folded on the Flop
+Seat 7: matiko09 folded before Flop (didn't bet)
+Seat 8: Kukuryzka folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381747665:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:51:54 CET [2016/06/30 8:51:54 ET]
+Table 'Asmodeus' 9-max Seat #8 is the button
+Seat 2: DomiVY ($40 in chips) 
+Seat 3: matiko09 ($102.15 in chips) 
+Seat 4: Ty Nick 420 ($109.06 in chips) 
+Seat 5: sanr23 ($102.25 in chips) 
+Seat 6: koutani7 ($98.58 in chips) 
+Seat 7: aaronzzr ($166.82 in chips) 
+Seat 8: Rafaello18 ($171.37 in chips) 
+Seat 9: mbk88 ($137.06 in chips) 
+mbk88: posts small blind $0.50
+scollop was removed from the table for failing to post
+DomiVY: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [Qs Td]
+ruslik_by joins the table at seat #1 
+matiko09: folds 
+Ty Nick 420: folds 
+sanr23: raises $2 to $3
+koutani7: folds 
+aaronzzr: folds 
+Rafaello18: folds 
+mbk88: folds 
+DomiVY: folds 
+Uncalled bet ($2) returned to sanr23
+sanr23 collected $2.50 from pot
+sanr23: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 2: DomiVY (big blind) folded before Flop
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 4: Ty Nick 420 folded before Flop (didn't bet)
+Seat 5: sanr23 collected ($2.50)
+Seat 6: koutani7 folded before Flop (didn't bet)
+Seat 7: aaronzzr folded before Flop (didn't bet)
+Seat 8: Rafaello18 (button) folded before Flop (didn't bet)
+Seat 9: mbk88 (small blind) folded before Flop
+
+
+
+
+
+PokerStars Hand #155381748040:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:51:55 CET [2016/06/30 8:51:55 ET]
+Table 'Tatjana' 9-max Seat #5 is the button
+Seat 1: tipner ($100 in chips) 
+Seat 2: Kukuryzka ($103.88 in chips) 
+Seat 3: Rafaello18 ($137.38 in chips) 
+Seat 5: matiko09 ($100 in chips) 
+Seat 6: mbk88 ($203.54 in chips) 
+Seat 8: alhill86 ($230.34 in chips) 
+Seat 9: Ty Nick 420 ($134.50 in chips) 
+mbk88: posts small blind $0.50
+alhill86: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [Kc Ah]
+Ty Nick 420: folds 
+tipner: folds 
+mopatron25 is disconnected 
+Kukuryzka: raises $2 to $3
+Rafaello18: folds 
+matiko09: raises $7 to $10
+mbk88: folds 
+alhill86: folds 
+Kukuryzka: calls $7
+*** FLOP *** [4d 9d 6d]
+Kukuryzka: checks 
+matiko09: checks 
+*** TURN *** [4d 9d 6d] [6c]
+Kukuryzka: checks 
+matiko09: checks 
+*** RIVER *** [4d 9d 6d 6c] [2d]
+Kukuryzka: bets $13
+matiko09: folds 
+Uncalled bet ($13) returned to Kukuryzka
+Kukuryzka collected $20.42 from pot
+Kukuryzka: doesn't show hand 
+*** SUMMARY ***
+Total pot $21.50 | Rake $1.08 
+Board [4d 9d 6d 6c 2d]
+Seat 1: tipner folded before Flop (didn't bet)
+Seat 2: Kukuryzka collected ($20.42)
+Seat 3: Rafaello18 folded before Flop (didn't bet)
+Seat 5: matiko09 (button) folded on the River
+Seat 6: mbk88 (small blind) folded before Flop
+Seat 8: alhill86 (big blind) folded before Flop
+Seat 9: Ty Nick 420 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381750648:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:52:00 CET [2016/06/30 8:52:00 ET]
+Table 'Thalia II' 9-max Seat #6 is the button
+Seat 2: DeathcorePkr ($66.51 in chips) 
+Seat 3: r4mz3s ($75.27 in chips) 
+Seat 4: Kukuryzka ($49.90 in chips) 
+Seat 5: geowin ($48.61 in chips) 
+Seat 6: chenconhaste ($52.64 in chips) 
+Seat 7: fudzi ($61.47 in chips) 
+Seat 8: Jo_Medici ($55.91 in chips) 
+Seat 9: matiko09 ($50 in chips) 
+fudzi: posts small blind $0.25
+Jo_Medici: posts big blind $0.50
+Kféine5: sits out 
+DeathcorePkr: posts the ante $0.10
+r4mz3s: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+geowin: posts the ante $0.10
+chenconhaste: posts the ante $0.10
+fudzi: posts the ante $0.10
+Jo_Medici: posts the ante $0.10
+matiko09: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [7h Ks]
+matiko09: folds 
+DeathcorePkr: raises $1 to $1.50
+r4mz3s: folds 
+Kukuryzka: folds 
+geowin: folds 
+chenconhaste: folds 
+fudzi: folds 
+Jo_Medici: folds 
+Uncalled bet ($1) returned to DeathcorePkr
+DeathcorePkr collected $2.05 from pot
+DeathcorePkr: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.05 | Rake $0 
+Seat 2: DeathcorePkr collected ($2.05)
+Seat 3: r4mz3s folded before Flop (didn't bet)
+Seat 4: Kukuryzka folded before Flop (didn't bet)
+Seat 5: geowin folded before Flop (didn't bet)
+Seat 6: chenconhaste (button) folded before Flop (didn't bet)
+Seat 7: fudzi (small blind) folded before Flop
+Seat 8: Jo_Medici (big blind) folded before Flop
+Seat 9: matiko09 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381758542:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:52:16 CET [2016/06/30 8:52:16 ET]
+Table 'Arcturus' 9-max Seat #5 is the button
+Seat 2: Rafaello18 ($51.59 in chips) 
+Seat 3: matiko09 ($65.22 in chips) 
+Seat 5: stockbridge8 ($44 in chips) 
+Seat 7: bratbugor ($50 in chips) 
+Seat 8: TheMinion ($66.01 in chips) 
+Seat 9: joker180785 ($51.03 in chips) 
+katiedao1307 will be allowed to play after the button
+bratbugor: posts small blind $0.25
+TheMinion: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [4c Qc]
+joker180785: folds 
+Rafaello18: raises $0.75 to $1.25
+matiko09: folds 
+stockbridge8: folds 
+bratbugor: folds 
+TheMinion: folds 
+Uncalled bet ($0.75) returned to Rafaello18
+Rafaello18 collected $1.25 from pot
+Rafaello18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0 
+Seat 2: Rafaello18 collected ($1.25)
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 5: stockbridge8 (button) folded before Flop (didn't bet)
+Seat 7: bratbugor (small blind) folded before Flop
+Seat 8: TheMinion (big blind) folded before Flop
+Seat 9: joker180785 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381761883:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:52:23 CET [2016/06/30 8:52:23 ET]
+Table 'Chort III' 9-max Seat #4 is the button
+Seat 2: Yourstepmom ($39.28 in chips) 
+Seat 3: Dantist1122 ($50 in chips) 
+Seat 4: kotkas1000 ($52.04 in chips) 
+Seat 5: Hit Pit ($49.86 in chips) 
+Seat 6: Franky77200 ($26.02 in chips) 
+Seat 7: matiko09 ($52.43 in chips) 
+Seat 8: Kukuryzka ($56.58 in chips) 
+Hit Pit: posts small blind $0.25
+Franky77200: posts big blind $0.50
+r4mz3s: sits out 
+Yourstepmom: posts the ante $0.10
+Dantist1122: posts the ante $0.10
+kotkas1000: posts the ante $0.10
+Hit Pit: posts the ante $0.10
+Franky77200: posts the ante $0.10
+matiko09: posts the ante $0.10
+Kukuryzka: posts the ante $0.10
+*** HOLE CARDS ***
+Dealt to matiko09 [2s 5h]
+matiko09: folds 
+Kukuryzka: folds 
+Yourstepmom: raises $1 to $1.50
+Dantist1122: raises $3 to $4.50
+kotkas1000: folds 
+Hit Pit: folds 
+Franky77200: folds 
+Yourstepmom: calls $3
+*** FLOP *** [Jh 4d Qh]
+Yourstepmom: checks 
+Dantist1122: bets $5.46
+Yourstepmom: folds 
+Uncalled bet ($5.46) returned to Dantist1122
+Dantist1122 collected $9.93 from pot
+Dantist1122: doesn't show hand 
+*** SUMMARY ***
+Total pot $10.45 | Rake $0.52 
+Board [Jh 4d Qh]
+Seat 2: Yourstepmom folded on the Flop
+Seat 3: Dantist1122 collected ($9.93)
+Seat 4: kotkas1000 (button) folded before Flop (didn't bet)
+Seat 5: Hit Pit (small blind) folded before Flop
+Seat 6: Franky77200 (big blind) folded before Flop
+Seat 7: matiko09 folded before Flop (didn't bet)
+Seat 8: Kukuryzka folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381771653:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:52:43 CET [2016/06/30 8:52:43 ET]
+Table 'Arcturus' 9-max Seat #7 is the button
+Seat 2: Rafaello18 ($52.34 in chips) 
+Seat 3: matiko09 ($65.22 in chips) 
+Seat 5: stockbridge8 ($44 in chips) 
+Seat 6: katiedao1307 ($40 in chips) 
+Seat 7: bratbugor ($50 in chips) 
+Seat 8: TheMinion ($65.51 in chips) 
+Seat 9: joker180785 ($51.03 in chips) 
+TheMinion: posts small blind $0.25
+joker180785: posts big blind $0.50
+katiedao1307: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [Qh 6d]
+Rafaello18: folds 
+matiko09: folds 
+stockbridge8: folds 
+katiedao1307: checks 
+bratbugor: folds 
+TheMinion: folds 
+joker180785: checks 
+*** FLOP *** [Qd 8d 8c]
+joker180785: checks 
+katiedao1307: bets $0.50
+joker180785: folds 
+Uncalled bet ($0.50) returned to katiedao1307
+katiedao1307 collected $1.19 from pot
+katiedao1307: doesn't show hand 
+*** SUMMARY ***
+Total pot $1.25 | Rake $0.06 
+Board [Qd 8d 8c]
+Seat 2: Rafaello18 folded before Flop (didn't bet)
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 5: stockbridge8 folded before Flop (didn't bet)
+Seat 6: katiedao1307 collected ($1.19)
+Seat 7: bratbugor (button) folded before Flop (didn't bet)
+Seat 8: TheMinion (small blind) folded before Flop
+Seat 9: joker180785 (big blind) folded on the Flop
+
+
+
+
+
+PokerStars Hand #155381779189:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:52:58 CET [2016/06/30 8:52:58 ET]
+Table 'California II' 9-max Seat #2 is the button
+Seat 1: Rafaello18 ($110 in chips) 
+Seat 2: ruslik_by ($135.46 in chips) 
+Seat 3: KovIFish89 ($114.19 in chips) 
+Seat 4: f1reworks ($113.35 in chips) 
+Seat 5: Rohitbarve ($104.27 in chips) 
+Seat 6: matiko09 ($118.48 in chips) 
+Seat 7: DomiVY ($88.38 in chips) 
+Seat 8: chenconhaste ($103.20 in chips) 
+Seat 9: Ty Nick 420 ($100 in chips) 
+KovIFish89: posts small blind $0.50
+f1reworks: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [8d 8c]
+Rohitbarve: folds 
+matiko09: raises $2 to $3
+DomiVY: folds 
+chenconhaste: folds 
+Ty Nick 420: folds 
+Rafaello18: folds 
+ruslik_by: folds 
+KovIFish89: folds 
+f1reworks: folds 
+Uncalled bet ($2) returned to matiko09
+matiko09 collected $2.50 from pot
+matiko09: doesn't show hand 
+*** SUMMARY ***
+Total pot $2.50 | Rake $0 
+Seat 1: Rafaello18 folded before Flop (didn't bet)
+Seat 2: ruslik_by (button) folded before Flop (didn't bet)
+Seat 3: KovIFish89 (small blind) folded before Flop
+Seat 4: f1reworks (big blind) folded before Flop
+Seat 5: Rohitbarve folded before Flop (didn't bet)
+Seat 6: matiko09 collected ($2.50)
+Seat 7: DomiVY folded before Flop (didn't bet)
+Seat 8: chenconhaste folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381785675:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:53:11 CET [2016/06/30 8:53:11 ET]
+Table 'Tatjana' 9-max Seat #6 is the button
+Seat 1: tipner ($100 in chips) 
+Seat 2: Kukuryzka ($114.30 in chips) 
+Seat 3: Rafaello18 ($137.38 in chips) 
+Seat 5: matiko09 ($100 in chips) 
+Seat 6: mbk88 ($203.04 in chips) 
+Seat 8: alhill86 ($229.34 in chips) 
+Seat 9: Ty Nick 420 ($134.50 in chips) 
+alhill86: posts small blind $0.50
+Ty Nick 420: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [7h 2d]
+tipner: folds 
+Kukuryzka: folds 
+Rafaello18: folds 
+matiko09: folds 
+mbk88: folds 
+alhill86: calls $0.50
+nickreason17 leaves the table
+KovIFish89 joins the table at seat #7 
+Ty Nick 420: checks 
+*** FLOP *** [2s As Qd]
+alhill86: checks 
+Ty Nick 420: checks 
+*** TURN *** [2s As Qd] [Jc]
+KovIFish89 leaves the table
+alhill86: bets $1
+Ty Nick 420: folds 
+Uncalled bet ($1) returned to alhill86
+alhill86 collected $1.90 from pot
+alhill86: doesn't show hand 
+*** SUMMARY ***
+Total pot $2 | Rake $0.10 
+Board [2s As Qd Jc]
+Seat 1: tipner folded before Flop (didn't bet)
+Seat 2: Kukuryzka folded before Flop (didn't bet)
+Seat 3: Rafaello18 folded before Flop (didn't bet)
+Seat 5: matiko09 folded before Flop (didn't bet)
+Seat 6: mbk88 (button) folded before Flop (didn't bet)
+Seat 8: alhill86 (small blind) collected ($1.90)
+Seat 9: Ty Nick 420 (big blind) folded on the Turn
+
+
+
+
+
+PokerStars Hand #155381791096:  Hold'em No Limit ($0.25/$0.50 USD) - 2016/06/30 14:53:23 CET [2016/06/30 8:53:23 ET]
+Table 'Arcturus' 9-max Seat #8 is the button
+Seat 2: Rafaello18 ($52.34 in chips) 
+Seat 3: matiko09 ($65.22 in chips) 
+Seat 5: stockbridge8 ($44 in chips) 
+Seat 6: katiedao1307 ($40.69 in chips) 
+Seat 7: bratbugor ($50 in chips) 
+Seat 8: TheMinion ($65.26 in chips) 
+Seat 9: joker180785 ($50.53 in chips) 
+joker180785: posts small blind $0.25
+Rafaello18: posts big blind $0.50
+*** HOLE CARDS ***
+Dealt to matiko09 [Ac Jd]
+matiko09: folds 
+stockbridge8: folds 
+katiedao1307: folds 
+bratbugor: folds 
+TheMinion: folds 
+joker180785: folds 
+Uncalled bet ($0.25) returned to Rafaello18
+Rafaello18 collected $0.50 from pot
+Rafaello18: doesn't show hand 
+*** SUMMARY ***
+Total pot $0.50 | Rake $0 
+Seat 2: Rafaello18 (big blind) collected ($0.50)
+Seat 3: matiko09 folded before Flop (didn't bet)
+Seat 5: stockbridge8 folded before Flop (didn't bet)
+Seat 6: katiedao1307 folded before Flop (didn't bet)
+Seat 7: bratbugor folded before Flop (didn't bet)
+Seat 8: TheMinion (button) folded before Flop (didn't bet)
+Seat 9: joker180785 (small blind) folded before Flop
+
+
+
+
+
+PokerStars Hand #155381794412:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:53:29 CET [2016/06/30 8:53:29 ET]
+Table 'California II' 9-max Seat #3 is the button
+Seat 1: Rafaello18 ($110 in chips) 
+Seat 2: ruslik_by ($135.46 in chips) 
+Seat 3: KovIFish89 ($113.69 in chips) 
+Seat 4: f1reworks ($112.35 in chips) 
+Seat 5: Rohitbarve ($104.27 in chips) 
+Seat 6: matiko09 ($119.98 in chips) 
+Seat 7: DomiVY ($88.38 in chips) 
+Seat 8: chenconhaste ($103.20 in chips) 
+Seat 9: Ty Nick 420 ($100 in chips) 
+f1reworks: posts small blind $0.50
+Rohitbarve: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [8h 7h]
+matiko09: raises $2 to $3
+DomiVY: folds 
+chenconhaste: folds 
+Ty Nick 420: folds 
+Rafaello18: folds 
+ruslik_by: folds 
+KovIFish89: folds 
+f1reworks: folds 
+Rohitbarve: calls $2
+*** FLOP *** [Ts 8c Qd]
+Rohitbarve: checks 
+matiko09: checks 
+*** TURN *** [Ts 8c Qd] [8d]
+Rohitbarve: checks 
+matiko09: bets $4.02
+Rohitbarve: calls $4.02
+*** RIVER *** [Ts 8c Qd 8d] [Tc]
+Rohitbarve: checks 
+matiko09: bets $4.28
+Rohitbarve: calls $4.28
+*** SHOW DOWN ***
+matiko09: shows [8h 7h] (a full house, Eights full of Tens)
+Rohitbarve: mucks hand 
+matiko09 collected $21.94 from pot
+*** SUMMARY ***
+Total pot $23.10 | Rake $1.16 
+Board [Ts 8c Qd 8d Tc]
+Seat 1: Rafaello18 folded before Flop (didn't bet)
+Seat 2: ruslik_by folded before Flop (didn't bet)
+Seat 3: KovIFish89 (button) folded before Flop (didn't bet)
+Seat 4: f1reworks (small blind) folded before Flop
+Seat 5: Rohitbarve (big blind) mucked [Kd 7d]
+Seat 6: matiko09 showed [8h 7h] and won ($21.94) with a full house, Eights full of Tens
+Seat 7: DomiVY folded before Flop (didn't bet)
+Seat 8: chenconhaste folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 folded before Flop (didn't bet)
+
+
+
+
+
+PokerStars Hand #155381820524:  Hold'em No Limit ($0.50/$1.00 USD) - 2016/06/30 14:54:22 CET [2016/06/30 8:54:22 ET]
+Table 'Tatjana' 9-max Seat #8 is the button
+Seat 3: Rafaello18 ($137.38 in chips) 
+Seat 5: matiko09 ($100 in chips) 
+Seat 6: mbk88 ($203.04 in chips) 
+Seat 8: alhill86 ($230.24 in chips) 
+Seat 9: Ty Nick 420 ($133.50 in chips) 
+Ty Nick 420: posts small blind $0.50
+tipner: is sitting out 
+Kukuryzka: is sitting out 
+Rafaello18: posts big blind $1
+*** HOLE CARDS ***
+Dealt to matiko09 [8d Ts]
+Kukuryzka leaves the table
+matiko09: folds 
+tipner leaves the table
+ruslik_by joins the table at seat #7 
+mbk88: folds 
+alhill86: folds 
+Ty Nick 420: folds 
+Uncalled bet ($0.50) returned to Rafaello18
+Rafaello18 collected $1 from pot
+Rafaello18: doesn't show hand 
+*** SUMMARY ***
+Total pot $1 | Rake $0 
+Seat 3: Rafaello18 (big blind) collected ($1)
+Seat 5: matiko09 folded before Flop (didn't bet)
+Seat 6: mbk88 folded before Flop (didn't bet)
+Seat 8: alhill86 (button) folded before Flop (didn't bet)
+Seat 9: Ty Nick 420 (small blind) folded before Flop
+
+
+
+
+
