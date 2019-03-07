@@ -1,0 +1,15 @@
+Holdem Data Creator - short description (more in: Full slovak description.docx)
+
+Processing data
+-proces source data from tousands of games of one player vs multiple players
+-create opponents profiles based on playing stats for future use
+-split opponents based on rules (pro players and others)
+-describe each game by list of players actions along the game + cards
+
+App provide 2 options 
+1. Generate players profile based on game stats (use for clustering players - prototype in repo PlayersClusterer)
+2. Generate files for each pro player or group of other players(based on results from PlayersClusterer)
+	- files for each player or group includes
+		1. game description - multiple actions described by game descriptors and cards vector
+		2. results for each game showing poker player hand category held during the game
+	- theese files are generated for train LSTM holdem predictor (prototype in repo HoldemCCPredictor) 
